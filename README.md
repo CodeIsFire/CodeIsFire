@@ -1,6 +1,6 @@
 # Aaditya Bhardwaj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=2E9EF7&center=false&vCenter=true&width=600&lines=Signal+Processing+%E2%86%92+Machine+Learning;CS+%40+SRM+University;Open+to+AI%2FML+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=2E9EF7&center=false&vCenter=true&width=600&lines=+%E2%86%92+Machine+Learning;CS+%40+SRM+University;Open+to+AI%2FML+roles" alt="Typing SVG" />
 
 I spent the last few months pulling 5G signals apart in GNU Radio to see how they actually sync up — now I'm pointing that same "find the pattern, then prove it" instinct at machine learning. CS student at SRM University, building toward AI/ML roles.
 
